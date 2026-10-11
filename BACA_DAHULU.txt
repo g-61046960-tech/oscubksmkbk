@@ -1,0 +1,34 @@
+OSC UBK SMKBK — CLOUDFLARE WORKERS
+===================================
+
+MULA: Buka MULA_DI_SINI.html untuk panduan dan butang salin kod Worker.
+
+Fail utama: worker.js (satu fail lengkap; gambar dan logo sudah dibenamkan).
+Worker Secret diperlukan: DRIVE_API_KEY
+Folder sumber: 19zCJH4y9bhmwDXcN6rZEiO--hEkVH0WW
+
+Pemasangan melalui dashboard Cloudflare sahaja. Tiada Wrangler atau arahan binaan.
+Pakej ini belum dideploy. Laman sedia ada tidak diubah.
+
+index-pratonton.html = pratonton reka bentuk dan beberapa folder yang telah dibaca.
+Ia bukan sambungan langsung. Jangan gunakan pratonton sebagai fail deploy.
+worker-untuk-salin.txt = kod sama dalam format teks.
+assets/ = imej asal untuk simpanan. Worker tidak memerlukan upload berasingan.
+source/ = HTML dan JavaScript untuk rujukan teknikal, bukan muat naik statik.
+
+Perubahan dalam Drive disemak setiap 60 saat semasa laman kelihatan, apabila
+folder dibuka, apabila pelayar kembali aktif dan apabila butang segarkan ditekan.
+
+PENTING — PAPARAN SAHAJA
+Fail perlu mempunyai sekatan download/copy/print untuk viewers/commenters pada
+Google Drive. Worker menolak paparan fail yang belum disahkan mempunyai sekatan.
+Tiada jaminan mencegah tangkap layar atau semua bentuk penyalinan.
+Tiada tetapan perkongsian Drive telah diubah oleh pakej ini.
+Fail Restricted tidak dibuka melalui akses pemilik. Jangan jadikan rekod sulit
+kaunseling dan maklumat peribadi murid awam untuk mengaktifkan portal.
+
+SePKM: https://www.sepkm.com/e/login/ (tab yang sama).
+Footer: Design by @5Lin
+
+Ujian: tempatan dan respons API simulasi. Sahkan sambungan sebenar selepas
+memasang DRIVE_API_KEY dan menerbitkan Worker dalam akaun cikgu.

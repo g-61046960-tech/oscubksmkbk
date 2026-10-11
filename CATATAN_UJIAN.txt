@@ -1,0 +1,21 @@
+CATATAN UJIAN — OSC UBK SMKBK
+================================
+
+Ujian tempatan pada 11 Oktober 2026:
+- Semakan sintaks JavaScript: lulus.
+- 27 semakan Worker dengan respons Google Drive simulasi: lulus.
+- 12 semakan fungsi antara muka dengan respons API simulasi: lulus.
+- Paparan pada lebar 320, 390, 768, 1024 dan 1440 piksel: tiada limpahan melintang.
+- Tiada ralat JavaScript ditemui dalam ujian pratonton.
+- Dua foto kaunselor hanya kelihatan pada halaman utama.
+- Foto dan logo dalam pakej menggunakan bait imej asal yang dilampirkan.
+
+Semakan antara muka meliputi paparan folder, pemapar dalam halaman, carian,
+polling 60 saat, perubahan nama/masa fail, pemadaman fail, kemunculan folder
+baharu dan pemadaman iframe apabila tetapan sekatan fail tidak dapat disahkan.
+
+PENTING:
+Ujian API di atas menggunakan data simulasi untuk menguji tingkah laku kod.
+Pakej belum dideploy ke Cloudflare. Penerbitan dalam akaun cikgu, API key sebenar
+dan kandungan pemapar Google Drive sebenar belum diuji. Selesaikan senarai
+semakan dalam MULA_DI_SINI.html selepas pemasangan.
